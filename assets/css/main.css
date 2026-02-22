@@ -40,7 +40,7 @@ body{
 {
 		.main{
 			height: 100vh;
-			overflow: auto;
+			overflow: hidden;
 		}
 
 		.img-rabbit{
